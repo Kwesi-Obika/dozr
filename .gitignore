@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# INCLUDE Build folder for Nelify 
+# /build
 
 # misc
 .DS_Store
